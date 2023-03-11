@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    font-family: 'Satisfy', cursive;
+    background-color: #dbddd2;
+}
+
+.avtar{
+    width: 130px;
+    border-radius: 5px;
+    
+
+}
+
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    width: 420px;
+    height: 150px;
+    color: white;
+    margin: 200px auto ;
+    align-items: center;
+    text-align: center;
+    border: 5px solid black;
+    border-radius: 10px;
+    padding: 50px;
+    background: linear-gradient(to right, #212529, #adb5bd);
+}
+
+.linkedin , a{
+    color: white;
+    text-decoration: none;
+}
